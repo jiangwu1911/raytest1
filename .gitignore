@@ -217,3 +217,9 @@ nohup.out
 core
 *.pth
 data
+*.bak
+*.tar.gz
+MedNIST
+saved_model
+output*
+runs
