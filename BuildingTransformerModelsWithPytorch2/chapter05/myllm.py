@@ -68,6 +68,7 @@ tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
 dataset=ClinicalDataset(data,tokenizer)
 print(dataset[0])
 
+print(tokenizer.sep_token_id)
 
 from transformers import DataCollatorForLanguageModeling
 import random

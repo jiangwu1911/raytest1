@@ -224,3 +224,5 @@ saved_model
 output*
 runs
 .idea
+qwen3-0.6b-onnx-community
+Qwen3-0.6B
