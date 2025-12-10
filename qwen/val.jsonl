@@ -1,0 +1,1 @@
+{"id": "005", "image": "test_images/win10.jpg", "conversations": [{"from": "user", "value": "<img>test_images/win10.jpg</img>请识别图片中的物体"}, {"from": "assistant", "value": "图片中的物体是: win10开机画面"}]}
