@@ -1,0 +1,14 @@
+[
+  {
+    "text": "<|im_start|>user\n[图像]请识别图片中的物体<|im_end|>\n<|im_start|>assistant\n图片中的物体是: 小橘猫<|im_end|>\n"
+  },
+  {
+    "text": "<|im_start|>user\n[图像]请识别图片中的物体<|im_end|>\n<|im_start|>assistant\n图片中的物体是: 小狸花猫<|im_end|>\n"
+  },
+  {
+    "text": "<|im_start|>user\n[图像]请识别图片中的物体<|im_end|>\n<|im_start|>assistant\n图片中的物体是: 人<|im_end|>\n"
+  },
+  {
+    "text": "<|im_start|>user\n[图像]请识别图片中的物体<|im_end|>\n<|im_start|>assistant\n图片中的物体是: 熊猫<|im_end|>\n"
+  }
+]
